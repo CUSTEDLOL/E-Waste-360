@@ -1,0 +1,36 @@
+.time-right {
+  float: right;
+  color: #aaa;
+}
+
+.time-left {
+  float: left;
+  color: #999;
+}
+input[type=text], select {
+	width: 1000px;
+	padding: 12px 20px;
+	margin-left:250px;
+	margin-top:30px;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	padding-top: 10px;
+	padding-left:10px;
+	color:black;
+}
+.Scroll::-webkit-scrollbar {
+	width: 10px;
+}
+
+.Scroll::-webkit-scrollbar-track {
+	background: #f1f1f1; 
+}
+ 
+.Scroll::-webkit-scrollbar-thumb {
+	background: #888; 
+}
+
+.Scroll::-webkit-scrollbar-thumb:hover {
+	background: #555; 
+}

@@ -1,0 +1,99 @@
+		
+.HOW {
+			float: left;
+			margin-top: 10px;
+			font-family: "Arial";
+			background: White;
+			border-radius: 10px;
+			font-size: 15.5;
+			margin-left: 10px;
+			
+			padding: 10px;
+		}
+					
+.form {
+			background: rgba(240, 240, 240, 0.8);
+		
+		}
+div.box {
+			background: blue;
+		}
+					
+div.gallery {
+			margin-left: 0px;
+			margin-right: 5px;
+			margin-top: 90px;
+			border: 1px solid #ccc;
+			float: right;
+			width: 200px;
+			box-shadow: 0 0 30px #1affff;
+						
+		}
+
+div.gallery:hover {
+			-webkit-transform: scale(1.5);
+			transform: scale(1.5); 
+		}
+
+div.gallery img {
+			width: 100%;
+			height: auto;
+		}
+		
+a:link {
+			color: white;
+			background-color: transparent;
+			text-decoration: none;
+		}
+h1{
+			font-family: "Verdana";	
+		}
+.row {
+			display: flex;
+			
+		}
+					
+.column {
+			flex: 50%;
+			padding-top: 10px;
+			padding-left: 10px;
+			padding-right: 10px;
+			margin-top: 30px;
+			margin-right: 10px;
+			
+		}
+		
+div.doctor {
+			border: 0px solid black;
+		}
+		
+div.doctor:hover {
+			transform: scale(1.05); 
+		}
+		
+.HOW2 {
+			float: left;
+			margin-top: 10px;
+			font-family: "Arial";
+			background: #e6e6e6;
+			border-radius: 25px;
+			font-size: 15.5;
+			margin-left: 10px;
+			margin-right:0px;
+			box-shadow: 0 0 30px #1affff;
+			padding: 10px;
+		}
+.HOW3 {
+			float: left;
+			margin-top: 10px;
+			font-family: "Arial";
+			background: White;
+			border-radius: 25px;
+			font-size: 15.5;
+			margin-left: 10px;
+			
+			padding: 10px;
+		}
+.HOW3:hover {
+			transform: scale(1.05); 
+		}
